@@ -14,7 +14,7 @@
 
 ![screenshot](poparts.png)
 
-In this project I analysed one of the datasets on [Kaggle](<https://www.kaggle.com>) centered on ecommerce data. The dataset contained 500 rows and  8 columns of data. The columns included in the dataset were the E-mail, address, avatar, average session length, time on the app, time on the website, length of membership, and the yearly amount spent. I created a simple and multiple linear model to predict the yearly amount spent by various customers.
+In this project I analysed one of the datasets on [Kaggle](<https://www.kaggle.com>) centered on ecommerce data. The [dataset](https://medium.com/r/?url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fkolawale%2Ffocusing-on-mobile-app-or-website) contained 500 rows and  8 columns of data. The columns included in the dataset were the E-mail, address, avatar, average session length, time on the app, time on the website, length of membership, and the yearly amount spent. I created a simple and multiple linear model to predict the yearly amount spent by various customers.
 
 ## Tools
 
